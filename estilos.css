@@ -1,0 +1,383 @@
+@media only screen and (max-width: 768px) {
+  body {
+    font-size: 15px;
+    width: 100%;
+    height: 1024px; }
+  p {
+    justify-content: center; }
+  nav li {
+    display: block; }
+  .section_cafe {
+    width: 768px !important;
+    height: 500px; }
+  .granpa {
+    width: 668px !important; } }
+
+h1 {
+  color: #666;
+  font-weight: bolder;
+  margin-top: 30px;
+  font-size: 60px;
+  text-align: center;
+  text-decoration-line: underline;
+  font-family: "Bubblegum Sans", cursive; }
+
+p {
+  color: #8d3f22;
+  font-size: 25px;
+  margin: 150 px;
+  line-height: 2;
+  text-align: center;
+  text-indent: 30pt;
+  font-family: "Bubblegum Sans", cursive; }
+
+.imagenCentral {
+  margin-right: 25px;
+  height: 500px;
+  float: right;
+  padding-left: 50px;
+  padding-top: 50px;
+  margin-top: 15px; }
+
+.explainProducts {
+  margin: 80px;
+  text-align: center;
+  line-height: 1.6; }
+
+#cont-nav {
+  background-color: #e7dec8;
+  border-color: #7c5d5d;
+  height: 45px;
+  margin-top: 30px;
+  margin-bottom: 40px; }
+
+nav ul {
+  font-size: 16px;
+  color: #cbaf87;
+  text-align: center;
+  list-style-type: none;
+  background-color: transparent; }
+
+.nav-item {
+  color: #c4bebe; }
+
+nav li {
+  display: inline-block;
+  position: relative;
+  text-align: center;
+  margin: 0 10px;
+  color: #c4bebe; }
+
+ul ul {
+  position: absolute;
+  display: none; }
+
+ul ul li {
+  display: block; }
+
+.nav-item a {
+  color: #ffffff; }
+
+.dropdown-menu {
+  background-color: rgba(158, 78, 25, 0.596);
+  border: 1px solid #bb6565; }
+
+.dropdown-menu:hover {
+  background-color: rgba(158, 78, 25, 0.596);
+  border: 1px solid #bb6565; }
+
+ul li:hover ul {
+  display: block;
+  text-decoration: none; }
+
+nav li a {
+  padding: 2px 7px 2px 7px;
+  color: #f1eeea;
+  background-color: #cbaf87;
+  border: 1px solid #bb6565; }
+
+nav li a:hover {
+  background-color: #857272;
+  color: white !important; }
+
+h2 {
+  color: #c2592f;
+  font-weight: bolder;
+  text-align: center;
+  font-family: Lobster;
+  font-size: 40px; }
+
+h3 {
+  color: rgba(58, 18, 3, 0.507);
+  text-align: center; }
+
+#contactInformation {
+  color: white;
+  font-family: "Bubblegum Sans";
+  font-weight: bolder;
+  text-decoration-line: underline;
+  text-align: center; }
+
+form {
+  font-size: 16px; }
+
+td,
+th {
+  background-color: rosybrown;
+  font-weight: bolder; }
+
+body {
+  margin-top: 50px;
+  background-image: url(../images/BACKGROUND3.jpg); }
+
+footer {
+  margin-top: 15px;
+  margin-bottom: 25px;
+  background-color: #eee4de;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+  clear: both;
+  display: block; }
+
+ul {
+  list-style: square; }
+
+.imagenDulces {
+  margin-right: 150px;
+  float: right;
+  width: 400px;
+  height: 300px;
+  border-style: hidden;
+  padding-left: 5px;
+  display: inline;
+  margin-bottom: 50px; }
+
+.imagenSalados {
+  margin-left: 150px;
+  float: left;
+  width: 400px;
+  height: 300px;
+  border-style: hidden;
+  margin-bottom: 50px; }
+
+#cabezaDeTexto {
+  margin-top: 70px;
+  letter-spacing: 8px; }
+
+form {
+  text-align: center;
+  line-height: 1.8; }
+
+.section_cafe {
+  background-image: url(../images/catering4.jpg);
+  width: 1300px;
+  height: 500px;
+  padding: 50px; }
+
+.section_cafe_name {
+  color: white !important; }
+
+.granpa {
+  border-style: double;
+  background-color: rgba(235, 217, 235, 0.637);
+  padding: 5px 10px 5px 10px;
+  margin: 0 auto;
+  width: 800px; }
+
+#texterea {
+  width: 300px; }
+
+.section_1 {
+  background-color: #c4bebe;
+  color: #ffffff; }
+
+.section_paragraph {
+  padding: 20px;
+  margin: 20px;
+  font-family: "Bubblegum Sans", cursive; }
+
+.section_videoPage2 {
+  float: left;
+  margin-left: 50px;
+  display: inline;
+  padding: 10px;
+  border-style: solid;
+  margin-top: 30px;
+  margin-bottom: 25px; }
+
+.section_aside {
+  width: 600px;
+  height: 300px;
+  margin-right: 40px;
+  float: right;
+  margin-top: 40px;
+  display: inline;
+  margin-bottom: 25px; }
+
+#pad {
+  display: flex;
+  justify-content: center;
+  border-style: double;
+  background-color: #f0c3b3;
+  font-size: 28px;
+  margin-top: 30px; }
+
+.flex {
+  display: flex;
+  flex-direction: row;
+  flex: 1;
+  justify-content: space-around;
+  margin-top: 50px;
+  border-style: double;
+  border-width: 8px; }
+
+.divTable {
+  display: flex;
+  justify-content: center;
+  background-color: #eba68d;
+  border-style: double;
+  border-width: 7px;
+  margin: 50px 80px 80px 80px;
+  height: 350px;
+  font-size: 20px; }
+
+#grilla {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 100px 100px 1fr;
+  grid-template-areas: "header header" "nav nav"     "productos information" "footer footer";
+  grid-column-gap: 5px;
+  grid-row-gap: 20px;
+  justify-items: center; }
+
+.item {
+  display: block;
+  margin: 40px; }
+
+.imagenes {
+  padding: 40px;
+  margin-top: 50px; }
+
+#productos {
+  background-color: #cbaf87; }
+
+header {
+  grid-area: header; }
+
+footer {
+  grid-area: footer; }
+
+section#productos {
+  grid-area: productos; }
+
+section#infomation {
+  grid-area: information; }
+
+nav {
+  grid-area: nav; }
+
+#carouselExampleIndicators {
+  width: 900px;
+  height: 500px;
+  margin: 0 auto;
+  padding-bottom: 20px; }
+
+.carousel-inner {
+  width: 900px;
+  height: 500px; }
+
+hr {
+  display: block;
+  position: block;
+  margin: 100px;
+  border: 3px solid #666;
+  border-radius: 300px/10px;
+  height: 0px;
+  text-align: center; }
+
+.service_section {
+  font-size: 30px; }
+
+.service_information {
+  font-size: 30px; }
+
+.service_chart {
+  font-size: 15px; }
+
+.service_image {
+  display: block;
+  float: right;
+  width: 450px;
+  justify-content: center; }
+
+.products_item {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr;
+  box-sizing: border-box;
+  background-image: url(../images/catering1.jpg);
+  width: 1300px;
+  height: 800px;
+  justify-items: center;
+  align-items: center;
+  justify-content: space-evenly; }
+
+.products_item_list {
+  box-sizing: border-box;
+  height: 250px;
+  display: inline;
+  position: relative;
+  color: #302b2b;
+  width: 300px;
+  border: 5px solid;
+  border-style: double;
+  font-size: 30px;
+  font-family: "Bubblegum Sans";
+  text-align: center;
+  text-decoration: underline;
+  background-color: white;
+  opacity: 60%; }
+
+#calendary {
+  opacity: 70%; }
+
+.section_mision, .section_freqayq {
+  display: block;
+  background-color: #cbaf87;
+  opacity: 80%;
+  height: 500 px;
+  color: white;
+  margin: 150px;
+  padding: 50px; }
+
+.mision p, .section_freqayq p {
+  color: white; }
+
+.mision h3, .section_freqayq h3 {
+  color: #f8e9e9; }
+
+.casitodos-1 {
+  opacity: 25%; }
+
+.casitodos-2 {
+  opacity: 50%; }
+
+.casitodos-3 {
+  opacity: 75%; }
+
+.casitodos {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-column-gap: 60px;
+  justify-items: center;
+  align-items: center;
+  justify-content: space-between;
+  transition: opacity all 2; }
+
+.casitodos-1:hover {
+  opacity: 100%; }
+
+.casitodos-3:hover {
+  opacity: 100%; }
+
+.casitodos-2:hover {
+  opacity: 100%; }
